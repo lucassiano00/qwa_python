@@ -1,16 +1,2 @@
 {
-    "candidates":[
-        {
-            "born_date":"26/01/1999",
-            "cpf":"06904282193",
-            "last_name":"Cassiano",
-            "name":"Lucas"
-        },
-        {
-            "born_date":"26/01/1458",
-            "cpf":"1459",
-            "last_name":"Kings",
-            "name":"Cacique"
-        }
-    ]
 }
